@@ -1,0 +1,7 @@
+{
+  "name": "PACK24 - Гипермаркет упаковки",
+  "description": "Интернет-гипермаркет упаковочных материалов, коробок, пакетов и товаров для маркетплейсов в стиле pack24.ru",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
